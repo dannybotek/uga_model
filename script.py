@@ -152,7 +152,6 @@ def main():
     # Export the performance DataFrame to a CSV file
     performance_df.to_csv('model_performance.csv', index=False)
 
-    # ... [rest of your code] ...
 
 if __name__ == "__main__":
     main()
